@@ -1,0 +1,139 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "HolyDirt",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "holy_dirt"
+    },
+    {
+      "name": "HolyBlade",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "holy_blade"
+    },
+    {
+      "name": "HolySwordRecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "holy_sword_recipe"
+    },
+    {
+      "name": "Holynuggy",
+      "type": "food",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "holynuggy"
+    },
+    {
+      "name": "Holynug",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "holynug"
+    },
+    {
+      "name": "Holynugpiece",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "holynugpiece"
+    },
+    {
+      "name": "Holynugfull",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "holynugfull"
+    },
+    {
+      "name": "Holylands",
+      "type": "biome",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "holylands"
+    },
+    {
+      "name": "HolyGrass",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "holy_grass"
+    },
+    {
+      "name": "Holybow",
+      "type": "rangeditem",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "holybow"
+    },
+    {
+      "name": "Holysling",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "holysling"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.mymod.holy_blade": "Holy Blade",
+      "block.mymod.holy_grass": "Holy Grass",
+      "item.mymod.holynugpiece": "Holynugpiece",
+      "biome.mymod.holylands": "Holylands",
+      "block.mymod.holy_dirt": "Holy Dirt",
+      "item.mymod.holybow": "Holybowsling",
+      "item.mymod.holynuggy": "Holynuggy"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "mymod",
+    "modName": "MyMod",
+    "version": "1.0.0",
+    "author": "moshi, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.mymod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

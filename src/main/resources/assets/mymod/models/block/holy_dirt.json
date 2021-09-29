@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mymod:blocks/holydirt",
+    "up": "mymod:blocks/holydirt",
+    "north": "mymod:blocks/holydirt",
+    "east": "mymod:blocks/holydirt",
+    "south": "mymod:blocks/holydirt",
+    "west": "mymod:blocks/holydirt",
+    "particle": "mymod:blocks/holydirt"
+  }
+}

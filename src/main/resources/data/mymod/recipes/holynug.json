@@ -1,0 +1,30 @@
+{
+  "group": "mymod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "mymod:holy_dirt"
+    },
+    "1": {
+      "item": "mymod:holy_dirt"
+    },
+    "2": {
+      "item": "mymod:holy_dirt"
+    },
+    "3": {
+      "item": "mymod:holy_dirt"
+    },
+    "4": {
+      "item": "mymod:holy_dirt"
+    }
+  },
+  "result": {
+    "item": "mymod:holynugpiece",
+    "count": 1
+  }
+}

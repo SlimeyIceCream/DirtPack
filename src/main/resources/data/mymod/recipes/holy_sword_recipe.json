@@ -1,0 +1,24 @@
+{
+  "group": "mymod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "mymod:holy_dirt"
+    },
+    "1": {
+      "item": "mymod:holy_dirt"
+    },
+    "2": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "mymod:holy_blade",
+    "count": 1
+  }
+}

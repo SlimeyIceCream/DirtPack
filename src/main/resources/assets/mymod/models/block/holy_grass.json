@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mymod:blocks/holydirt",
+    "up": "mymod:blocks/grasstop",
+    "north": "mymod:blocks/grassside",
+    "east": "mymod:blocks/grassside",
+    "south": "mymod:blocks/grassside",
+    "west": "mymod:blocks/grassside",
+    "particle": "mymod:blocks/holydirt"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "mymod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "mymod:holynugpiece"
+    },
+    "1": {
+      "item": "mymod:holynugpiece"
+    },
+    "2": {
+      "item": "mymod:holynugpiece"
+    },
+    "3": {
+      "item": "mymod:holynugpiece"
+    }
+  },
+  "result": {
+    "item": "mymod:holynuggy",
+    "count": 1
+  }
+}
